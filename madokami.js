@@ -3,10 +3,12 @@
 // @author   Eliot Whalan
 // @namespace madokami
 // @license  MIT
+// @version  1
 // @include  https?://manga.madokami.com/user/notifications
 // @require  http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js
 // @grant    GM_addStyle
 // @grant    GM_xmlhttpRequest
+// @updateURL https://raw.githubusercontent.com/ewhal/Madokami-link-generator/master/madokami.js
 // ==/UserScript==
 var list = [];
 var series = [];
