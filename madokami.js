@@ -1,5 +1,8 @@
 // ==UserScript==
 // @name     Madokami link generator
+// @author   Eliot Whalan
+// @namespace madokami
+// @license  MIT
 // @include  https?://manga.madokami.com/user/notifications
 // @require  http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js
 // @grant    GM_addStyle
